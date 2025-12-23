@@ -14,8 +14,6 @@ Built entirely in **one HTML file** using **Three.js** and **MediaPipe Hands**, 
 
 ---
 
-## Gameplay Overview
-
 ## 🎮 Gameplay Preview
 
 <p align="center">
