@@ -118,6 +118,22 @@ Includes:
 
 ---
 
+## 🧠 System Flow
+
+```text
+Camera Feed
+     ↓
+MediaPipe Hands (v0.4.1646424915)
+     ↓
+Gesture Logic (Try-Catch Protected)
+     ↓
+Aim Assist & Laser Raycast
+     ↓
+Three.js Scene (60 FPS)
+     ↓
+VFX • SFX • Enemy Logic
+
+
 ## How to Run
 
 1. Clone the repository:
