@@ -12,6 +12,16 @@ Aim using a pistol hand gesture and pull the trigger with your thumb to shoot in
 
 Built entirely in **one HTML file** using **Three.js** and **MediaPipe Hands**, with strong crash-prevention and performance safeguards.
 
+## ✨ Visual Highlights
+
+| 🔫 Gesture Shooting | 🎯 Aim Assist | 🛸 Dynamic Enemies |
+|-------------------|--------------|------------------|
+| Pistol hand gesture with thumb trigger | Magnetic crosshair snap | Edge-spawned flying discs |
+
+| 🔦 Laser Targeting | 💥 Hit Feedback | ⚡ Stable Runtime |
+|------------------|---------------|------------------|
+| Real-time laser line | HIT/MISS VFX + sound | Version-locked MediaPipe |
+
 ---
 
 ## 🎮 Gameplay Preview
