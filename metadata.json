@@ -1,0 +1,8 @@
+
+{
+  "name": "AR Pistol Strike",
+  "description": "An AR gesture-based shooting game where you use a pistol hand gesture to blast flying discs. Features magnetic aim assist, laser tracking, and real-time hand detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
