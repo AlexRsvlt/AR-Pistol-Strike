@@ -16,6 +16,12 @@ Built entirely in **one HTML file** using **Three.js** and **MediaPipe Hands**, 
 
 ## Gameplay Overview
 
+## 🎮 Gameplay Preview
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/gameplay.gif" width="80%" />
+</p>
+
 ### Gesture Controls
 - Pistol hand gesture detection (index finger aiming)
 - Thumb trigger pull to shoot
