@@ -36,6 +36,13 @@ Built entirely in **one HTML file** using **Three.js** and **MediaPipe Hands**, 
 
 ## Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js">
+  <img src="https://img.shields.io/badge/MediaPipe-Hands-blue?style=for-the-badge&logo=google">
+  <img src="https://img.shields.io/badge/Single_File-HTML-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/60FPS-Performance-green?style=for-the-badge">
+</p>
+
 - **Three.js** – 3D rendering
 - **MediaPipe Hands** – Real-time hand tracking
 - **WebGL** – GPU-accelerated graphics
