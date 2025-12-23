@@ -132,7 +132,9 @@ Aim Assist & Laser Raycast
 Three.js Scene (60 FPS)
      ↓
 VFX • SFX • Enemy Logic
+```
 
+---
 
 ## How to Run
 
