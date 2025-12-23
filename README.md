@@ -1,4 +1,11 @@
-# AR Gesture Shooting Game (Single-File HTML)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/ar-gesture-shooter-banner.png" width="100%" />
+</p>
+
+<h1 align="center">🎯 AR Gesture Shooting Game</h1>
+<p align="center">
+  <i>Shoot with your hands. No controller. No downloads.</i>
+</p>
 
 A browser-based AR shooting game where your hand becomes the controller.  
 Aim using a pistol hand gesture and pull the trigger with your thumb to shoot incoming flying discs.
